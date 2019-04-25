@@ -1,3 +1,5 @@
+转载地址 https://github.com/QuintGao/GKPageScrollView
+
 <div align=center><img src="/Pictures/GKPageScrollView.png" width="405" height="63" /></div>
 
 ![](https://img.shields.io/badge/platform-iOS-red.svg)&nbsp;&nbsp;
